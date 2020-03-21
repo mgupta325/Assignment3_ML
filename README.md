@@ -1,6 +1,6 @@
-# Assignment3_ML
+# ML_Assignment3
 
-Github code link: https://github.com/mgupta325/Assignment3_ML.git
+Github code link: https://github.com/mgupta325/ML_Assignment3.git
 
 
 
